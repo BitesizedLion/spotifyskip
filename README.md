@@ -23,7 +23,7 @@ npm install
 
 ```sh
 edit .env file
-run "node .";
+run "node ."
 profit.
 ```
 
